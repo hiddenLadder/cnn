@@ -1,4 +1,4 @@
-# Import necessary libraries
+# Импортирование библиотек
 from keras import layers, models
 from keras.datasets import mnist
 from keras.preprocessing.image import ImageDataGenerator
